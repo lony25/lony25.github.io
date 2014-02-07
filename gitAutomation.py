@@ -29,14 +29,14 @@ class git:
         
     def push(self):
         p = subprocess.Popen(self.git_command % ' '.join(['push']), stdout=subprocess.PIPE, stdin=subprocess.PIPE, shell=True)
-        output, err = p.communicate()
+        output, err = p.communicate(input='time')
                              
 
 if __name__=='__main__':
     repo = git()
-    repo.status()
-    repo.init()
-    repo.add()
+    #repo.status()
+    #repo.init()
+    #repo.add()
     repo.commit()
     repo.push()
 
