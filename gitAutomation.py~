@@ -1,0 +1,21 @@
+import subprocess
+
+class git():
+    def __init__():
+        git_command = 'git%s'
+        print 'class git initialized'
+        
+    def init(self):
+        p = subprocess.Popen(git_command % ' '.join('init'), stdout=subprocess.PIPE, shell=True)
+        output, err = p.communicate()
+        print output
+
+    def status(self):
+        p = subprocess.Popen(git_command % ' '.join('status'), stdout=subprocess.PIPE, shell=True)
+        output, err = p.communicate()
+        print output
+
+if __name__=='__main__':
+    repo = git()
+    repo.status()
+
