@@ -29,7 +29,7 @@ class git:
         
     def push(self):
         p = subprocess.Popen(self.git_command % ' '.join(['push']), stdout=subprocess.PIPE, stdin=subprocess.PIPE, shell=True)
-        output, err = p.communicate(input='lony25')
+        output, err = p.communicate(input='danger123')
                              
 
 if __name__=='__main__':
