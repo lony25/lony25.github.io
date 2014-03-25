@@ -6,19 +6,19 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          'The Jekyll Butler'
-description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://getpoole.com
+title:            Lony In
+tagline:          'How do you get in alone'
+description:      'Do we want to get in the weird place'
+url:              http://dev.lony.in
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Lony'
+  email:            contact@lony.in
 
 paginate:         1
 
 # Custom vars
 version:          1.0.0
 
-github:
-  repo:           https://github.com/poole/poole
+#github:
+#  repo:           https://github.com/poole/poole
