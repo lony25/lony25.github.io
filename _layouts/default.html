@@ -1,3 +1,22 @@
+<<<<<<< HEAD
+---
+theme :
+  name : twitter
+---
+{% include JB/setup %}
+{% include themes/twitter/default.html %}
+{% include comments.html %}
+<h3 class="masthead-title">
+<a href="/" title="Home">{{ site.title }}</a>
+
+{% for page in site.pages_list %}
+  &nbsp;&nbsp;&nbsp;
+  <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+{% endfor %}
+</h3>
+
+
+=======
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
@@ -24,3 +43,4 @@
 
   </body>
 </html>
+>>>>>>> dcf6ba9d0a0e22cf16164937ad05cae6bb00b2b5
