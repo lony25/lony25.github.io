@@ -10,8 +10,8 @@ You have arrived to the Multi Blog site deployed with Jekyll.
 
 Feel free to visit the blogs of our writers.
 
-[blog](/blog/index.html)
+[Blog](/blog/index.html)
 
-[tech](/tech/index.html)
+[Tech](/tech/index.html)
 
 Thanks.
