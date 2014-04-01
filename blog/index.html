@@ -5,7 +5,7 @@ category: blog
 ---
 
 <div class="posts">
-  {% for post in site.posts %}
+
   {% for post in paginator.posts %}
   {% if post.categories contains 'blog' %}
   <div class="post">
@@ -21,7 +21,7 @@ category: blog
   </div>
   {% endif %}
   {% endfor %}
-  {% endfor %}
+
 </div>
 
 <div class="pagination">
