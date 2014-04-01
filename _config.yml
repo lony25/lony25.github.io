@@ -23,7 +23,7 @@ version:          1.0.0
 #github:
 #  repo:           https://github.com/poole/poole
 
-exclude: ['Rakefile', 'CNAME', 'README']
+exclude: ['Rakefile', 'README']
 
 pages_list:
   About: '/about'
