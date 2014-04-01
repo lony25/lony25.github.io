@@ -7,7 +7,6 @@ category: blog
 <div class="posts">
   {% for post in site.posts %}
   {% if post.categories contains 'blog' %}
-  {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
@@ -19,7 +18,6 @@ category: blog
 
     {{ post.content }}
   </div>
-  {% endfor %}
   {% endif %}
   {% endfor %}
 </div>
