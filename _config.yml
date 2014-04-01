@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          'The Jekyll Butler'
-description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://getpoole.com
+title:            Lony
+tagline:          'Who wants to live alone'
+#description:      'Base theme for Jekyll themes by @mdo.'
+url:              http://dev.lony.in
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+#author:
+#  name:           'Mark Otto'
+#  url:            https://twitter.com/mdo
 
 paginate:         1
 
@@ -22,3 +22,8 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/poole/poole
+
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'

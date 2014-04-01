@@ -2,6 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   {% include head.html %}
+  {% include comments.html %}
 
   <body>
 
@@ -9,6 +10,10 @@
       <div class="masthead">
         <h3 class="masthead-title">
           <a href="/" title="Home">{{ site.title }}</a>
+	  {% for page in site.pages_list %}
+	  &nbsp;&nbsp;&nbsp;
+	  <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+	  {% endfor %}
           <small>{{ site.tagline }}</small>
         </h3>
       </div>
