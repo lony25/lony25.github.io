@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Lony
+tagline:          'The stuff I try'
+#description:      'Base theme for Jekyll themes by @mdo.'
+url:              http://dev.lony.in
+
+#author:
+#  name:           'Mark Otto'
+#  url:            https://twitter.com/mdo
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+#github:
+#  repo:           https://github.com/poole/poole
+
+exclude: ['Rakefile', 'CNAME', 'README']
+
+pages_list:
+  About: '/about'
+  Feed: '/atom.xml'
