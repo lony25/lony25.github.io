@@ -31,4 +31,4 @@
       end
     end
 
-task :default => :publish
+task :default => :generate
