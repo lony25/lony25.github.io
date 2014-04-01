@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Poole
+title: "Introducing Poole"
 comments: true
 categories: blog
 ---

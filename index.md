@@ -9,6 +9,7 @@ title: 'Multi Blog Test'
 You have arrived to the Multi Blog site deployed with Jekyll.
 
 [Blog](/blog/index.html)
+
 [Tech](/tech/index.html)
 
 Thanks.
