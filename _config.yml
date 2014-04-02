@@ -15,7 +15,7 @@ url:              http://dev.lony.in
 #  name:           'Mark Otto'
 #  url:            https://twitter.com/mdo
 
-paginate:         1
+paginate:         3
 
 # Custom vars
 version:          1.0.0
@@ -24,7 +24,3 @@ version:          1.0.0
 #  repo:           https://github.com/poole/poole
 
 exclude: ['Rakefile', 'README']
-
-pages_list:
-  About: '/about'
-  Feed: '/atom.xml'

@@ -26,11 +26,21 @@
         {% endif %}
       {% endfor %}
 
-      {% assign tags_list = site.categories %}
-      {% for tag in tags_list %}
-	    <li class="sidebar-nav-item">
-	      <a href="/{{tag | first}}/">{{tag | first | capitalize}}</a>
-      {% endfor %}
+      {% assign tags_list = site.categories %}  
+	{% if tags_list.first[0] == null %}
+          {% for tag in tags_list %} 
+            <li class="sidebar-nav-item">
+	      <a href="/{{ tag }}">{{ tag | capitalize }}</a>
+	    </li>
+          {% endfor %}
+        {% else %}
+          {% for tag in tags_list %} 
+            <li class="sidebar-nav-item">
+	      <a href="/{{ tag[0] }}">{{ tag[0] | capitalize }} </a>
+	    </li>
+          {% endfor %}
+        {% endif %}
+      {% assign tags_list = nil %}
 
       <li class="sidebar-nav-item"><a href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a></li>
       <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">GitHub project</a></li>
