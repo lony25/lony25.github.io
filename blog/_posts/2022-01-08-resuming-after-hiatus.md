@@ -2,6 +2,7 @@
 layout: post
 title: Resuming after a long hiatus
 categories: blog
+date: 2022-01-08 10:00:00 +5:30
 ---
 
 I have updated my site after a long time. Almost 8 years.
