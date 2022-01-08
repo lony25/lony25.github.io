@@ -7,8 +7,8 @@ Hello World !!
 
 I am a programmer by profession.
 
-Currently I work in a startup.
+I like to read books - fantasy, fiction, non fiction.
 
-I'll update this page soon with more info and stuff.
+I like to watch TV series and movies.
 
-Thanks for reading!
+I like to watch sports and support Manchester United in EPL.
