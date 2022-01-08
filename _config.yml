@@ -8,19 +8,11 @@ permalink:        pretty
 # Setup
 title:            Lony
 tagline:          'The stuff I try'
-#description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://dev.lony.in
+url:              https://www.lony.in
 
-#author:
-#  name:           'Mark Otto'
-#  url:            https://twitter.com/mdo
-
-paginate:         3
+paginate:         5
 
 # Custom vars
-version:          1.0.0
-
-#github:
-#  repo:           https://github.com/poole/poole
+version:          1.0.1
 
 exclude: ['Rakefile', 'README']
