@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Incoherent Musings on stuff not related'
+title: 'Ruminations from experience'
 ---
 
 
