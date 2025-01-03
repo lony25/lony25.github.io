@@ -13,8 +13,10 @@ With that preamble out of way, this is about a beautiful movie in 2024 that I en
 
 ## Meiyazhagan
 This is Tamil language movie starring two stalwarts of Indian cinema: **Arvind Swamy** and **Karthi**.
+<!--break-->
 Story is simple - a person returns to their native town after a long time to attend a wedding and meets a relative about whom he has forgotten.
 But simplest stories pulls you in, makes you experience every single frame, every single dialogue, background score.
+
 
 ### Cinematography
 I am a hobbyist photographer. So I like a frame when it is beautifully shot. I love static long shots. They let you in seamlessly in the frame, observe the nuances, colors, lightning, shadow.
