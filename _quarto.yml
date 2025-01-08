@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Coming Third"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - posts.qmd ## adding listing page
+      - tech.qmd
+      - href: http://photos.lony.in/
+        text: Photos
+      - href: mailto:contact@lony.in
+        text: Contact Me
+  page-footer:
+    center:
+      - text: Copyright © 2025. All rights reserved.
+
+format:
+  html:
+    theme: 
+        light: flatly
+        dark: darkly
+    css: styles.css
+    toc: true
+
+
+
