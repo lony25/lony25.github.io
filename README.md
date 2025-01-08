@@ -1,6 +1,6 @@
 Site build using Quarto project.
 
-##For future me
+## For future me
 To reach the original source, checkout source branch.
 Make sure quarto is installed on the system.
 Clone the repository
