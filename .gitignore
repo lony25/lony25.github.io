@@ -3,3 +3,4 @@ _site/
 *~
 *.swap
 /.quarto/
+docs/

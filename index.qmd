@@ -1,5 +1,17 @@
 ---
 title: "Coming Third"
+listing:
+  id: main-page
+  type: default
+  contents:
+  - "posts"
+  - "tech"
+  sort: "date desc"
+  sort-ui: [title, date]
+  filter-ui: [title, date]
+  max-items: 5
+  fields: [date, title]
+
 ---
 
 God said come forth and won eternal life, but John came third and won a toaster.
@@ -7,3 +19,9 @@ God said come forth and won eternal life, but John came third and won a toaster.
 I am delighted, honored and excited :-)
 
 I have recently begun to being humbled and proud as well. 
+
+-----------------------------------------------------------------------------
+## Latest posts
+
+:::{#main-page}
+:::

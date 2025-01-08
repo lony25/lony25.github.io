@@ -6,6 +6,14 @@
     ]
   },
   {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2025/01/02/meiyazhagan.html",
+      "/tech/2022/01/10/Automate-Trivial-Job.html",
+      "/posts/2022/01/07/resuming-after-hiatus.html"
+    ]
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/2025/01/02/meiyazhagan.html",
