@@ -18,6 +18,10 @@ website:
         text: Photos
       - href: mailto:contact@lony.in
         text: Contact Me
+    tools:
+      - icon: github
+        href: https://github.com/lony25/lony25.github.io
+        text: source
   page-footer:
     center:
       - text: Copyright © 2025. All rights reserved.
