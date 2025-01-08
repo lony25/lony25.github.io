@@ -1,0 +1,35 @@
+{
+  "draft/operating-system-thoughts.md": {
+    "operating-system-thoughts.html": "df97f5e1"
+  },
+  "draft/finished-software.md": {
+    "finished-software.html": "916057c7"
+  },
+  "draft/user-interface.md": {
+    "user-interface.html": "48c7bb8e"
+  },
+  "draft/years-went-by.md": {
+    "years-went-by.html": "23115c19"
+  },
+  "posts/2022/01/07/resuming-after-hiatus.md": {
+    "resuming-after-hiatus.html": "0d9292a4"
+  },
+  "posts/2025/01/02/meiyazhagan.md": {
+    "meiyazhagan.html": "49915669"
+  },
+  "index.qmd": {
+    "index.html": "e12061c4"
+  },
+  "tech.qmd": {
+    "tech.html": "dbc411d1"
+  },
+  "posts.qmd": {
+    "posts.html": "8b05bcaf"
+  },
+  "tech/2022/01/10/Automate-Trivial-Job.md": {
+    "Automate-Trivial-Job.html": "612d38ae"
+  },
+  "about.qmd": {
+    "about.html": "06fb6094"
+  }
+}
