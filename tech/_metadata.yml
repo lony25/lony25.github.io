@@ -4,4 +4,14 @@
 freeze: auto
 
 # enable banner style title blocks ----
-title-block-style: plain
+title-block-banner: true
+title-block-categories: true
+
+author: 'lony'
+
+comments:
+  giscus:
+    repo: lony25/lony25.github.io
+    theme:
+      light: light
+      dark: dark_dimmed

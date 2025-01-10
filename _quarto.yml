@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Coming Third"
+  site-url: https://www.lony.in
   navbar:
     search: true
     left:
@@ -18,6 +19,9 @@ website:
         text: Photos
       - href: mailto:contact@lony.in
         text: Contact Me
+    right:
+      - icon: rss
+        href: index.xml
     tools:
       - icon: github
         href: https://github.com/lony25/lony25.github.io

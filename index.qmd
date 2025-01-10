@@ -11,7 +11,7 @@ listing:
   filter-ui: [title, date]
   max-items: 5
   fields: [date, title]
-
+  feed: true
 ---
 
 God said come forth and won eternal life, but John came third and won a toaster.
